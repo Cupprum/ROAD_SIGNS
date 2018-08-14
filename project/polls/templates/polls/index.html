@@ -3,10 +3,13 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
 </head>
 <body>
-    <h1>TESTING {{ name }}</h1>
-    <h2>moja orientacia je {{ orientation }}
+    <form action="/" method = "post">{% csrf_token %}
+        <h1>TESTING {{ name }}</h1>
+        <h2>moja orientacia je {{ orientation }}</h2>
 
-    <br>
+        <br>
 
-    <a class="btn btn-primary" href="/polls/test2">Useradministration</a>
+        <button type="submit" name="test1" class="btn btn-primary">test1</button>
+        <button type="submit" name="redirect" class="btn btn-primary">redirect</button>
+    </form>
 </body>
