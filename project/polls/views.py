@@ -5,15 +5,20 @@ from django.shortcuts import redirect
 
 
 @require_http_methods(["GET", "POST"])
+def welcome_page(request):
+    if request.method == 'GET':
+        template = loader.get_template('polls/welcome_page.html')
+        return HttpResponse(template.render({}, request))
+
+
+@require_http_methods(["GET", "POST"])
 def index(request):
-    print(request.method)
     if request.method == 'GET':
         template = loader.get_template('polls/index.html')
         context = {'name': 'milujem simonku', 'orientation': 'simonkofil'}
         return HttpResponse(template.render(context, request))
 
     elif request.method == 'POST':
-        print(request.POST)
         if 'test1' in request.POST:
             return HttpResponse('THIS IS HOW IT WORKS')
 
