@@ -1,5 +1,9 @@
-.samkov_test {
+h1 {
     font-family: "Times New Roman", Times, serif;
     font-size: 60px;
     color: green;
+}
+
+body {
+    background-color: black; 
 }

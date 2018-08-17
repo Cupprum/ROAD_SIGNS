@@ -7,14 +7,14 @@ from django.shortcuts import redirect
 @require_http_methods(["GET", "POST"])
 def welcome_page(request):
     if request.method == 'GET':
-        template = loader.get_template('polls/welcome_page.html')
+        template = loader.get_template('app_signs/welcome_page.html')
         return HttpResponse(template.render({}, request))
 
 
 @require_http_methods(["GET", "POST"])
 def index(request):
     if request.method == 'GET':
-        template = loader.get_template('polls/index.html')
+        template = loader.get_template('app_signs/index.html')
         context = {'name': 'milujem simonku', 'orientation': 'simonkofil'}
         return HttpResponse(template.render(context, request))
 
