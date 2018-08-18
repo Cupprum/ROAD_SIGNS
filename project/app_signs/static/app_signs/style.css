@@ -1,9 +1,30 @@
-h1 {
+h1.main_text {
     font-family: "Times New Roman", Times, serif;
     font-size: 60px;
-    color: green;
+    color: #04465f;
+    font-weight: bold;
 }
 
-body {
-    background-color: black; 
+div.top {
+    background-color: white;
+    height: 60%;
+}
+
+div.middle {
+    background-color: #22947a26; 
+    height: 37.5%;
+}
+
+div.bottom {
+    height: 2.5%;
+    position: absolute;
+    bottom: 0;
+    background-color: #2481823b;
+    width: 100%;
+}
+
+button.btn-my-css {
+    border-width: thick;
+    border-color: #2481821c;
+    color: black;
 }

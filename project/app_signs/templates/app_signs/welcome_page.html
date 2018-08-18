@@ -7,12 +7,18 @@
 </head>
 <body>
     <form action="/" method = "post">{% csrf_token %}
-        <div style="height: 60%"></div>
-        <div class="container text-center">
-            <div class="col-lg-12">
-                <h1>Dopravné značky</h1>
-                <button type="submit" name="start_test" class="btn btn-outline-primary btn-lg" style="border-radius: 40px; font-size: 40px;">Vyskúšaj sa</button>
+        <div class="top"></div>
+        <div class="middle">
+            <div class="container text-center col-lg-12">
+                <br><br><br>
+                <h1 class="main_text">Dopravné značky</h1>
+                <button type="submit" name="start_test" class="btn btn-outline-primary btn-lg btn-my-css" style="border-radius: 40px; font-size: 40px;">Vyskúšaj sa</button>
             </div>
         </div>
+        <footer>
+            <div class="bottom">
+                <p>something</p>                
+            </div>
+        </footer>
     </form>
 </body>
