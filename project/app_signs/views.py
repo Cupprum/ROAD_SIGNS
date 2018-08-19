@@ -10,6 +10,10 @@ def welcome_page(request):
         template = loader.get_template('app_signs/welcome_page.html')
         return HttpResponse(template.render({}, request))
 
+    if request.method == 'POST':
+        if 'btn_start' in request.POST:
+            return HttpResponse('working button')
+
 
 @require_http_methods(["GET", "POST"])
 def index(request):

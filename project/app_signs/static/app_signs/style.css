@@ -6,20 +6,31 @@ h1.main_text {
 }
 
 div.top {
-    background-color: white;
+    background-image: url("welcome_background.png");
     height: 60%;
+}
+
+div.middle-rectangle-light {
+    height: 2%;
+    background-color: #22947a00;
+}
+
+div.middle-rectangle-dark {
+    height: 2.5%;
+    background-color: #2481823b;
+    width: 100%;
 }
 
 div.middle {
     background-color: #22947a26; 
-    height: 37.5%;
+    height: 38%;
 }
 
 div.bottom {
-    height: 2.5%;
+    height: 2%;
     position: absolute;
     bottom: 0;
-    background-color: #2481823b;
+    background-color: #24818259;
     width: 100%;
 }
 
