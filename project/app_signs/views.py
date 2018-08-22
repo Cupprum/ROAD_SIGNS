@@ -12,7 +12,14 @@ def welcome_page(request):
 
     if request.method == 'POST':
         if 'btn_start' in request.POST:
-            return HttpResponse('working button')
+            template = loader.get_template('app_signs/choose_category.html')
+            return HttpResponse(template.render({}, request))
+
+
+@require_http_methods(["GET", "POST"])
+def choose_category(request):
+    if request.method == 'GET':
+        return HttpResponse('SOUNDS GOOD TO ME')
 
 
 @require_http_methods(["GET", "POST"])
