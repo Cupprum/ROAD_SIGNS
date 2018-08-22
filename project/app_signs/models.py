@@ -1,3 +1,6 @@
 from django.db import models
 
-# Create your models here.
+
+class Test_t(models.Model):
+    title = models.CharField(max_length=250)
+    text = models.CharField(max_length=250)
