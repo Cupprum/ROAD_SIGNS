@@ -73,6 +73,7 @@ WSGI_APPLICATION = 'signs.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
+'''
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
@@ -82,11 +83,10 @@ DATABASES = {
 '''
 DATABASES = {
    'default': {
-      'ENGINE': 'django_mongodb_engine',
+      'ENGINE': 'djongo',
       'NAME': 'signs'
    }
 }
-'''
 
 # Password validation
 # https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators
