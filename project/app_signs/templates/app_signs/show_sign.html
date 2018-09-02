@@ -1,0 +1,16 @@
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    {% load static %}
+
+    <link rel="stylesheet" type="text/css" href="{% static 'app_signs/style.css' %}">
+</head>
+<body>
+    <form action="/show_sign" method = "post">{% csrf_token %}
+        <p>{{ act_sign.sign_category }}</p>
+        <p>{{ act_sign.sign_id }}</p>
+        <p>{{ act_sign.sign_name }}</p>
+        <p>{{ act_sign.sign_url }}</p>
+        <img src={{ act_sign.sign_url }}>
+    </form>
+</body>

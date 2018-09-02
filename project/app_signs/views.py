@@ -3,6 +3,8 @@ from django.template import loader
 from django.views.decorators.http import require_http_methods
 from django.shortcuts import redirect
 
+from app_signs.models import Sign
+
 
 @require_http_methods(["GET", "POST"])
 def welcome_page(request):
@@ -20,6 +22,15 @@ def choose_category(request):
     if request.method == 'GET':
         template = loader.get_template('app_signs/choose_category.html')
         return HttpResponse(template.render({}, request))
+
+
+@require_http_methods(["GET", "POST"])
+def show_sign(request):
+    if request.method == 'GET':
+        act_sign = Sign.objects.get(sign_id='001')
+        print(act_sign.sign_name)
+        template = loader.get_template('app_signs/show_sign.html')
+        return HttpResponse(template.render({'act_sign': act_sign}, request))
 
 
 @require_http_methods(["GET", "POST"])
