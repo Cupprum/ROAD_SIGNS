@@ -1,0 +1,386 @@
+Výstražné značky|001|Zákruta vpravo|https://i.imgur.com/tqvGkzF.png
+Výstražné značky|002|Zákruta vľavo|https://i.imgur.com/WzFwK2K.png
+Výstražné značky|003|Dvojitá zákruta, prvá vpravo|https://i.imgur.com/pN6WRJv.png
+Výstražné značky|004|Dvojitá zákruta, prvá vpravo|https://i.imgur.com/uwC22aE.png
+Výstražné značky|005|Nebezpečné klesanie|https://i.imgur.com/24w049X.png
+Výstražné značky|006|Nebezpečné stúpanie|https://i.imgur.com/MEL4v4W.png
+Výstražné značky|007|Zúžená vozovka z oboch strán|https://i.imgur.com/2QbAx9c.png
+Výstražné značky|008|Zúžená vozovka sprava|https://i.imgur.com/mRKIdd1.png
+Výstražné značky|009|Zúžená vozovka zľava|https://i.imgur.com/oOaMrAb.png
+Výstražné značky|010|Nerovnosť vozovky|https://i.imgur.com/e68K3Qq.png
+Výstražné značky|011|Spomaľovací prah|https://i.imgur.com/YZdfHJF.png
+Výstražné značky|012|Nebezpečná krajnica|https://i.imgur.com/t1IQ1MC.png
+Výstražné značky|013|Nebezpečenstvo šmyku|https://i.imgur.com/cmHl79N.png
+Výstražné značky|014|Sneh alebo poľadovica|https://i.imgur.com/YHmIppF.png
+Výstražné značky|015|Hmla|https://i.imgur.com/HBX6ECG.png
+Výstražné značky|016|Odletujúci štrk|https://i.imgur.com/7hIn7dK.png
+Výstražné značky|017|Svetelné signály|https://i.imgur.com/BEz7aLf.png
+Výstražné značky|018|Priechod pre chodcov|https://i.imgur.com/sgbPOh4.png
+Výstražné značky|019|Chodci|https://i.imgur.com/0yU6b9r.png
+Výstražné značky|020|Deti|https://i.imgur.com/HEhE1yj.png
+Výstražné značky|021|Cyklisti|https://i.imgur.com/3afDMkH.png
+Výstražné značky|022|Zvieratá|https://i.imgur.com/pzh0JVg.png
+Výstražné značky|023|Zver|https://i.imgur.com/Nopxfxx.png
+Výstražné značky|024|Práca|https://i.imgur.com/NLhr0rd.png
+Výstražné značky|025|Padajúce kamene|https://i.imgur.com/yquZJdT.png
+Výstražné značky|026|Obojsmerná premávka|https://i.imgur.com/f1XJSID.png
+Výstražné značky|027|Električka|https://i.imgur.com/MGHWrbV.png
+Výstražné značky|028|Kolóny|https://i.imgur.com/tdaPoQI.png
+Výstražné značky|029|Tunel|https://i.imgur.com/D1c4fjb.png
+Výstražné značky|030|Železničné priecestie so závorami|https://i.imgur.com/pwTaryy.png
+Výstražné značky|031|Železničné priecestie bez závor|https://i.imgur.com/C9xyu8J.png
+Výstražné značky|032|Návestná tabuľa ľavá (240 m)|https://i.imgur.com/I0n6gJC.png
+Výstražné značky|033|Návestná tabuľa pravá (240 m)|https://i.imgur.com/Hl7XYaG.png
+Výstražné značky|034|Návestná tabuľa ľavá (160 m)|https://i.imgur.com/OJhG7Wq.png
+Výstražné značky|035|Návestná tabuľa pravá (160 m)|https://i.imgur.com/CiWDLeE.png
+Výstražné značky|036|Návestná tabuľa pravá (80 m)|https://i.imgur.com/XNn4RDl.png
+Výstražné značky|037Návestná tabuľa ľavá(80 m)|https://i.imgur.com/oauiIMZ.png
+Výstražné značky|038|Výstražný kríž pre železničné priecestie jednokoľajové|https://i.imgur.com/EegLTP6.png
+Výstražné značky|039|Výstražný kríž pre železničné priecestie viackoľajové|https://i.imgur.com/WFLz44e.png
+Výstražné značky|040|Lietadlá|https://i.imgur.com/7abnHwg.png
+Výstražné značky|041|Bočný vietor|https://i.imgur.com/cHQHXYP.png
+Výstražné značky|042|Nehoda|https://i.imgur.com/NHfwush.png
+Výstražné značky|043|Iné nebezpečenstvo|https://i.imgur.com/qBg0A7Y.png
+Značky upravujúce prednosť v jazde|044|Daj prednosť v jazde!|https://i.imgur.com/GnGgnGv.png
+Značky upravujúce prednosť v jazde|045|Stoj, daj prednosť v jazde!|https://i.imgur.com/45be99q.png
+Značky upravujúce prednosť v jazde|046|Daj prednosť v jazde električke!|https://i.imgur.com/89b4THn.png
+Značky upravujúce prednosť v jazde|047|Križovatka|https://i.imgur.com/Lx6Ewf3.png
+Značky upravujúce prednosť v jazde|048|Križovatka s vedľajšou cestou|https://i.imgur.com/4aH32E7.png
+Značky upravujúce prednosť v jazde|049|Križovatka s vedľajšou cestou (vľavo)|https://i.imgur.com/eezePIl.png
+Značky upravujúce prednosť v jazde|050|Križovatka s vedľajšou cestou (vpravo)|https://i.imgur.com/EtnrzDc.png
+Značky upravujúce prednosť v jazde|051|Križovatka s kruhovým objazdom|https://i.imgur.com/IsfoMfV.png
+Značky upravujúce prednosť v jazde|052|Hlavná cesta|https://i.imgur.com/YiGKo5B.png
+Značky upravujúce prednosť v jazde|053|Koniec hlavnej cesty|https://i.imgur.com/RF9AOp4.png
+Značky upravujúce prednosť v jazde|054|Prednosť protiidúcich vozidiel|https://i.imgur.com/SMB2hMg.png
+Značky upravujúce prednosť v jazde|055|Prednosť pred protiidúcimi vozidlami|https://i.imgur.com/pyuoBpD.png
+Značky upravujúce prednosť v jazde|056|Tvar križovatky|https://i.imgur.com/diezZCI.png
+Značky upravujúce prednosť v jazde|057|Tvar križovatky|https://i.imgur.com/jANbjVM.png
+Značky upravujúce prednosť v jazde|058|Tvar križovatky|https://i.imgur.com/hAph50v.png
+Značky upravujúce prednosť v jazde|059|Tvar dvoch križovatiek|https://i.imgur.com/U47ov8m.png
+Zákazové značky|060|Zákaz vjazdu všetkých vozidiel v oboch smeroch|https://i.imgur.com/Uc5qdU3.png
+Zákazové značky|061|Zákaz vjazdu všetkých vozidiel062 -|https://i.imgur.com/aTGfLrz.png
+Zákazové značky|062|Zákaz vjazdu všetkých motorových vozidiel|https://i.imgur.com/nlWApTG.png
+Zákazové značky|063|Zákaz vjazdu všetkých motorových vozidiel s výnimkou motocyklov bez postranného vozíka|https://i.imgur.com/NEou0sK.png
+Zákazové značky|064|Zákaz vjazdu osobných automobilov|https://i.imgur.com/8DdtTAh.png
+Zákazové značky|065|Zákaz vjazdu nákladných automobilov|https://i.imgur.com/TlajNNT.png
+Zákazové značky|066|Zákaz vjazdu autobusov|https://i.imgur.com/ehWov0r.png
+Zákazové značky|067|Zákaz vjazdu motocyklov|https://i.imgur.com/kbIQ4Lw.png
+Zákazové značky|068|Zákaz vjazdu traktorov|https://i.imgur.com/QFqqFkP.png
+Zákazové značky|069|Zákaz vjazdu malých motocyklov|https://i.imgur.com/24bhhhk.png
+Zákazové značky|070|Zákaz vjazdu bicyklov|https://i.imgur.com/gfahW0G.png
+Zákazové značky|071|Zákaz vjazdu jazdcov na koňoch|https://i.imgur.com/jA9DV6K.png
+Zákazové značky|072|Zákaz vstupu chodcov|https://i.imgur.com/K5OfC6W.png
+Zákazové značky|073|Zákaz vstupu korčuliarov|https://i.imgur.com/okduYXb.png
+Zákazové značky|074|Zákaz vjazdu záprahových vozidiel|https://i.imgur.com/sV6nxMt.png
+Zákazové značky|075|Zákaz vjazdu ručných vozíkov|https://i.imgur.com/yoyPrJ0.png
+Zákazové značky|076|Zákaz vjazdu motorových vozidiel s prívesmi|https://i.imgur.com/3CuFeMs.png
+Zákazové značky|077|Zákaz vjazdu vyznačených vozidiel|https://i.imgur.com/IRWCuL2.png
+Zákazové značky|078|Zákaz jazdy motorových vozidiel vo vzdialenosti kratšej, ako je vyznačené|https://i.imgur.com/yizXsvJ.png
+Zákazové značky|079|Zákaz vjazdu vozidiel, alebo súprav vozidiel, ktorých dĺžka presahuje vyznačenú hranicu|https://i.imgur.com/ITbaNEX.png
+Zákazové značky|080|Zákaz vjazdu vozidiel prepravujúcich nebezpečné veci|https://i.imgur.com/K8NeaSv.png
+Zákazové značky|082|Zákaz vjazdu vozidiel prepravujúcich náklad, ktorý môže spôsobiť znečistenie vody|https://i.imgur.com/NO8tYH8.png
+Zákazové značky|082|Zákaz vjazdu vozidiel, ktorých šírka presahuje vyznačenú hranicu|https://i.imgur.com/5UGsD2G.png
+Zákazové značky|083|Zákaz vjazdu vozidiel, ktorých výška presahuje vyznačenú hranicu|https://i.imgur.com/HwSl0SA.png
+Zákazové značky|084|Zákaz vjazdu vozidiel, ktorých okamžitá hmotnosť presahuje vyznačenú hranicu|https://i.imgur.com/bAeEm3R.png
+Zákazové značky|085|Koniec viacerých zákazov|https://i.imgur.com/qyoDXqg.png
+Zákazové značky|086|Zákaz vjazdu vozidiel, ktorých okamžitá hmotnosť pripadajúca na jednu nápravu presahuje vyznačenú hranicu|https://i.imgur.com/nOjXe7T.png
+Zákazové značky|087|Zákaz odbočovania vpravo|https://i.imgur.com/oIFTHIU.png
+Zákazové značky|088|Zákaz odbočovania vľavo|https://i.imgur.com/4xmfwMd.png
+Zákazové značky|089|Zákaz otáčania|https://i.imgur.com/aitxw8Z.png
+Zákazové značky|090|Zákaz predchádzania|https://i.imgur.com/6ZNPELq.png
+Zákazové značky|091|Koniec zákazu predchádzania|https://i.imgur.com/Ua1Vi4o.png
+Zákazové značky|092|Zákaz predchádzania pre nákladné automobily|https://i.imgur.com/KSSbkKr.png
+Zákazové značky|093|Koniec zákazu predchádzania pre nákladné automobily|https://i.imgur.com/OY2mc06.png
+Zákazové značky|094|Najvyššia dovolená rýchlosť|https://i.imgur.com/vHGR5r9.png
+Zákazové značky|095|Koniec najvyššej dovolenej rýchlosti|https://i.imgur.com/vyIhGlO.png
+Zákazové značky|096|Iný zákaz (vzor)|https://i.imgur.com/97ioZYT.png
+Zákazové značky|097|Povinnosť zastaviť vozidlo|https://i.imgur.com/Dpn983N.png
+Zákazové značky|098|Zákaz zvukových výstražných znamení|https://i.imgur.com/6rbqFaw.png
+Zákazové značky|099|Koniec zákazu zvukových výstražných znamení|https://i.imgur.com/yaijzEl.png
+Zákazové značky|100|Zákaz státia|https://i.imgur.com/ykdB6en.png
+Zákazové značky|101|Zákaz zastavenia|https://i.imgur.com/iJ9Gexn.png
+Zákazové značky|102|Zákaz státia v nepárnych dňoch|https://i.imgur.com/OZbzTae.png
+Zákazové značky|103|Zákaz státia v párnych dňoch|https://i.imgur.com/4mbADUt.png
+Príkazové značky|104|Striedavé radenie (pravé)|https://i.imgur.com/C7KTqbz.png
+Príkazové značky|105|Prikázaný smer jazdy priamo|https://i.imgur.com/FC0vM2q.png
+Príkazové značky|106|Prikázaný smer jazdy vpravo|https://i.imgur.com/yoqjpFk.png
+Príkazové značky|107|Prikázaný smer jazdy vpravo|https://i.imgur.com/EtiMxXn.png
+Príkazové značky|108|Prikázaný smer jazdy vľavo|https://i.imgur.com/R0hdQG7.png
+Príkazové značky|109|Prikázaný smer jazdy vľavo|https://i.imgur.com/mWBgkm5.png
+Príkazové značky|110|Prikázaný smer jazdy vpravo a vľavo|https://i.imgur.com/t4v8szA.png
+Príkazové značky|111|Prikázaný smer jazdy priamo a vpravo|https://i.imgur.com/84t1aWI.png
+Príkazové značky|112|Prikázaný smer jazdy priamo a vľavo|https://i.imgur.com/xevgqGd.png
+Príkazové značky|113|Prikázaný smer jazdy otáčania|https://i.imgur.com/VhydmGz.png
+Príkazové značky|114|Prikázaný smer jazdy obchádzania vpravo|https://i.imgur.com/eAn7B34.png
+Príkazové značky|115|Prikázaný smer jazdy obchádzania vľavo|https://i.imgur.com/1l7ghfD.png
+Príkazové značky|116|Prikázaný smer jazdy obchádzania vpravo a vľavo|https://i.imgur.com/ST9BF2o.png
+Príkazové značky|117|Kruhový objazd|https://i.imgur.com/bcHA0Fs.png
+Príkazové značky|118|Cestička pre cyklistov|https://i.imgur.com/16PhNn7.png
+Príkazové značky|119|Cestička pre chodcov|https://i.imgur.com/eK8E4kB.png
+Príkazové značky|120|Cestička pre korčuliarov|https://i.imgur.com/Qy9Gva2.png
+Príkazové značky|121|Cestička pre jazdcov na koňoch|https://i.imgur.com/mogtrbS.png
+Príkazové značky|122|Cestička pre vyznačených užívateľov|https://i.imgur.com/dfZKT3z.png
+Príkazové značky|123|Cestička pre vyznačených užívateľov|https://i.imgur.com/JwX1c3d.png
+Príkazové značky|124|Použiť protisklzové reťaze|https://i.imgur.com/oHJ060g.png
+Príkazové značky|125|Najnižšia povolená rýchlosť|https://i.imgur.com/avhjxFh.png
+Príkazové značky|126|Iný príkaz|https://i.imgur.com/ZsSZSRW.png
+Príkazové značky|127|Rozsvieť svetlá|https://i.imgur.com/6zC4KFs.png
+Príkazové značky|128|Koniec cestičky pre cyklistov|https://i.imgur.com/VqF4Ubs.png
+Príkazové značky|129|Koniec cestičky pre chodcov|https://i.imgur.com/M4V0WOx.png
+Príkazové značky|130|Koniec cestičky pre jazdcov na koňoch|https://i.imgur.com/xIRmOj0.png
+Príkazové značky|131|Koniec cestičky pre korčuliarov|https://i.imgur.com/vLD8S44.png
+Príkazové značky|132|Koniec cestičky pre vyznačených užívateľov|https://i.imgur.com/023GQ1j.png
+Príkazové značky|133|Koniec cestičky pre vyznačených užívateľov|https://i.imgur.com/HmaBepI.png
+Príkazové značky|134|Koniec iného príkazu|https://i.imgur.com/NZEgBgI.png
+Príkazové značky|135|Koniec najnižšej dovolenej rýchlosti|https://i.imgur.com/LBb9TCj.png
+Príkazové značky|136|Koniec použitia protisklzových reťazí|https://i.imgur.com/UYgIQhJ.png
+Príkazové značky|137|Koniec príkazu|https://i.imgur.com/xjFQs1E.png
+Príkazové značky|138|Prikázaný smer prepravy vyznačených vozidiel a vecí|https://i.imgur.com/LHeRHnt.png
+Príkazové značky|139|Usporiadanie jazdných pruhov (jednosmerná premávka)|https://i.imgur.com/JwFJGsM.png
+Príkazové značky|140|Usporiadanie jazdných pruhov (protismerná premávka)|https://i.imgur.com/d3hZigU.png
+Príkazové značky|141|Usporiadanie jazdných pruhov (pripojenie bez pripájacieho pruhu)|https://i.imgur.com/yYXPAfS.png
+Príkazové značky|142|Usporiadanie jazdných pruhov (pripojenie s pripájacím pruhom)|https://i.imgur.com/mmZ3VAS.png
+Príkazové značky|143|Zvýšenie počtu jazdných pruhov|https://i.imgur.com/TYDcdKc.png
+Príkazové značky|144|Zníženie počtu jazdných pruhov|https://i.imgur.com/BzZGYQb.png
+Príkazové značky|145|Zvýšenie počtu jazdných pruhov pre pomalé vozidlá|https://i.imgur.com/TMunKfj.png
+Príkazové značky|146|Obmedzenie v jazdných pruhoch|https://i.imgur.com/5LnNNfV.png
+Príkazové značky|147|Koniec obmedzenia v jazdných pruhoch|https://i.imgur.com/qcNVDLZ.png
+Príkazové značky|148|Vyhradený jazdný pruh|https://i.imgur.com/noPP517.png
+Príkazové značky|149|Koniec vyhradeného jazdného pruhu|https://i.imgur.com/dShm50k.png
+Príkazové značky|150|Radenie jazdných pruhov pred križovatkou|https://i.imgur.com/1bB22pn.png
+Príkazové značky|151|Radenie jazdných pruhov pred križovatkou|https://i.imgur.com/imRzU1J.png
+Príkazové značky|152|Radenie jazdných pruhov pred križovatkou|https://i.imgur.com/9GY81Nk.png
+Príkazové značky|153|Zmena smeru jazdy|https://i.imgur.com/4Ia80Oh.png
+Príkazové značky|154|Obchádzanie električky|https://i.imgur.com/FyVwJR9.png
+Príkazové značky|155|Zmena smeru jazdy|https://i.imgur.com/IUfVe7c.png
+Príkazové značky|156|Zmena smeru jazdy|https://i.imgur.com/nG8sm8L.png
+Príkazové značky|157|Striedavé radenie (ľavé)|https://i.imgur.com/CJbIB3N.png
+Informatívne prevádzkové značky|158|Okruh|https://i.imgur.com/4raMBb0.png
+Informatívne prevádzkové značky|159|Zmena smeru okruhu|https://i.imgur.com/ED0ldVY.png
+Informatívne prevádzkové značky|160|Jednosmerná premávka (vľavo)|https://i.imgur.com/7OWQVcd.png
+Informatívne prevádzkové značky|161|Jednosmerná premávka (vpravo)|https://i.imgur.com/RIlHPYA.png
+Informatívne prevádzkové značky|162|Jednosmerná premávka|https://i.imgur.com/D1CVWsY.png
+Informatívne prevádzkové značky|163|Slepá cesta|https://i.imgur.com/L6hpJcT.png
+Informatívne prevádzkové značky|164|Návesť pred slepou cestou|https://i.imgur.com/7Zyg5rG.png
+Informatívne prevádzkové značky|165|Priechod pre chodcov|https://i.imgur.com/MPmpHmc.png
+Informatívne prevádzkové značky|166|Priechod pre cyklistov|https://i.imgur.com/FHjI3qH.png
+Informatívne prevádzkové značky|167|Spomaľovací prah|https://i.imgur.com/80Gpx2n.png
+Informatívne prevádzkové značky|168|Podchod alebo nadchod|https://i.imgur.com/NDxWxQu.png
+Informatívne prevádzkové značky|169|Odporúčaná rýchlosť|https://i.imgur.com/qTSGS5r.png
+Informatívne prevádzkové značky|170|Núdzová odstavná plocha|https://i.imgur.com/SvuM0rO.png
+Informatívne prevádzkové značky|171|Parkovisko|https://i.imgur.com/q4D0vaq.png
+Informatívne prevádzkové značky|172|Parkovisko, parkovacie miesta s kolmým státím|https://i.imgur.com/GshxQTs.png
+Informatívne prevádzkové značky|173|Parkovisko, parkovacie miesta so šikmým státím|https://i.imgur.com/WmvvWQU.png
+Informatívne prevádzkové značky|174| Parkovisko, parkovacie miesta s pozdĺžnym státím|https://i.imgur.com/QhuzEXO.png
+Informatívne prevádzkové značky|175|Parkovisko, parkovacie miesta s kolmým alebo šikmým státím na chodníku|https://i.imgur.com/ItuLLbr.png
+Informatívne prevádzkové značky|176|Parkovisko, parkovacie miesta s pozdĺžnym státím na chodníku|https://i.imgur.com/3ko4P50.png
+Informatívne prevádzkové značky|177|Parkovisko, parkovacie miesta s kolmým alebo šikmým čiastočným státím na chodníku|https://i.imgur.com/p8OYvzW.png
+Informatívne prevádzkové značky|178|Parkovisko, parkovacie miesta s pozdĺžnym čiastočným státím na chodníku|https://i.imgur.com/DbBBl5f.png
+Informatívne prevádzkové značky|179|Parkovisko parkovacie miesta s vyhradeným státím|https://i.imgur.com/oZLJWY0.png
+Informatívne prevádzkové značky|180|Parkovisko parkovacie miesta s vyhradeným státím|https://i.imgur.com/KlnSVyb.png
+Informatívne prevádzkové značky|181|Všeobecné informácie o povinnosti úhrady|https://i.imgur.com/oOezhRf.png
+Informatívne prevádzkové značky|182|Parkovisko parkovacie miesta s vyhradeným státím|https://i.imgur.com/4VV452l.png
+Informatívne prevádzkové značky|183|Parkovisko, parkovacie miesta s plateným státím|https://i.imgur.com/7s6vEAe.png
+Informatívne prevádzkové značky|184|Parkovisko, parkovacie miesta s regulovaným státím|https://i.imgur.com/CQT9PKs.png
+Informatívne prevádzkové značky|185|Kryté parkovisko, parkovacia garáž alebo parkovací dom|https://i.imgur.com/ZV3lhUL.png
+Informatívne prevádzkové značky|186|Parkovisko P+R|https://i.imgur.com/PXAMPGw.png
+Informatívne prevádzkové značky|187|Stanovisko polície|https://i.imgur.com/3JQbf7N.png
+Informatívne prevádzkové značky|188|Stanovisko TAXI|https://i.imgur.com/XNye3ZP.png
+Informatívne prevádzkové značky|189|Tunel|https://i.imgur.com/MrXyvSe.png
+Informatívne prevádzkové značky|190|Koniec tunela|https://i.imgur.com/33ZYFZp.png
+Informatívne prevádzkové značky|191|Rýchlostná cesta|https://i.imgur.com/2mA2IaN.png
+Informatívne prevádzkové značky|192|Koniec rýchlostnej cesty|https://i.imgur.com/JCZDpFY.png
+Informatívne prevádzkové značky|193|Diaľnica|https://i.imgur.com/i2gguyi.png
+Informatívne prevádzkové značky|194|Koniec diaľnice|https://i.imgur.com/pAAxkVE.png
+Informatívne prevádzkové značky|195|Zóna s dopravným obmedzením|https://i.imgur.com/9MHTyEx.png
+Informatívne prevádzkové značky|196|Koniec zóny s dopravným obmedzením|https://i.imgur.com/rQ6arLV.png
+Informatívne prevádzkové značky|197|Pešia zóna|https://i.imgur.com/9JAiqM7.png
+Informatívne prevádzkové značky|198|Koniec pešej zóny|https://i.imgur.com/MnGtuWi.png
+Informatívne prevádzkové značky|199|Školská zóna|https://i.imgur.com/FEoMJy4.png
+Informatívne prevádzkové značky|200|Koniec školskej zóny|https://i.imgur.com/HeFxgAg.png
+Informatívne prevádzkové značky|201|Zóna s plateným alebo regulovaným státím|https://i.imgur.com/Tye0vr7.png
+Informatívne prevádzkové značky|202|Koniec zóny s plateným alebo regulovaným státím|https://i.imgur.com/pNhO1wa.png
+Informatívne prevádzkové značky|203|Obytná zóna|https://i.imgur.com/42V7sEX.png
+Informatívne prevádzkové značky|204|Koniec obytnej zóny|https://i.imgur.com/uaeY39I.png
+Informatívne prevádzkové značky|205|Úniková zóna|https://i.imgur.com/mJmObFx.png
+Informatívne prevádzkové značky|206|Zmena miestnej úpravy|https://i.imgur.com/QaLcH5z.png
+Informatívne prevádzkové značky|207|Výstražné zariadenie vypnuté|https://i.imgur.com/RKbnrVe.png
+Informatívne prevádzkové značky|208|Hmlové body|https://i.imgur.com/9FdXeCf.png
+Informatívne prevádzkové značky|209|Bezpečná vzdialenosť|https://i.imgur.com/U3rBpkI.png
+Informatívne prevádzkové značky|210|Všeobecné informácie o dopravných obmedzeniach|https://i.imgur.com/GiXqMGs.png
+Informatívne smerové značky|211|Návesť pred križovatkou|https://i.imgur.com/XMo47Nm.png
+Informatívne smerové značky|212|Návesť pred križovatkou|https://i.imgur.com/DciuuwQ.png
+Informatívne smerové značky|213|Návesť pred križovatkou pre cyklistov|https://i.imgur.com/BSZPlCK.png
+Informatívne smerové značky|214|Smerová tabuľa pre cyklistov|https://i.imgur.com/lJ2j5o9.png
+Informatívne smerové značky|215|Návesť pred križovatkou|https://i.imgur.com/E1Nm5TF.png
+Informatívne smerové značky|216|Návesť pred križovatkou|https://i.imgur.com/Ofmts45.png
+Informatívne smerové značky|217|Návesť pred križovatkou|https://i.imgur.com/RTxQYfW.png
+Informatívne smerové značky|218|Návesť pred križovatkou|https://i.imgur.com/83Ok30w.png
+Informatívne smerové značky|219|Smerová tabuľa|https://i.imgur.com/Xbrs0IS.png
+Informatívne smerové značky|220|Smerová tabuľa|https://i.imgur.com/8RQhczR.png
+Informatívne smerové značky|221|Diaľková návesť|https://i.imgur.com/ULxbuy3.png
+Informatívne smerové značky|222|Diaľková návesť|https://i.imgur.com/cEWld34.png
+Informatívne smerové značky|223|Návesť pred križovatkou|https://i.imgur.com/KDYUHH8.png
+Informatívne smerové značky|224|Návesť pred kultúrnym alebo turistickým cieľom|https://i.imgur.com/v8jNNBQ.png
+Informatívne smerové značky|225|Návesť pred kultúrnym alebo turistickým cieľom|https://i.imgur.com/WuQDuF8.png
+Informatívne smerové značky|226|Návesť pred križovatkou s obmedzením|https://i.imgur.com/Cn0CFwv.png
+Informatívne smerové značky|227|Návesť pred križovatkou s obmedzením|https://i.imgur.com/9LBJ0zb.png
+Informatívne smerové značky|228|Návesť pred križovatkou s obmedzením|https://i.imgur.com/kGLmjP6.png
+Informatívne smerové značky|229|Návesť pred obchádzkou|https://i.imgur.com/P87iu8f.png
+Informatívne smerové značky|230|Smerová tabuľa|https://i.imgur.com/Rl70D29.png
+Informatívne smerové značky|231|Smerová tabuľa|https://i.imgur.com/v4OWGgY.png
+Informatívne smerové značky|232|Smerová tabuľa|https://i.imgur.com/HHwK4qW.png
+Informatívne smerové značky|233|Smerová tabuľa združená|https://i.imgur.com/RUyfGxQ.png
+Informatívne smerové značky|234|Smerová tabuľa združená|https://i.imgur.com/sUuL8Ug.png
+Informatívne smerové značky|235|Smerová tabuľa jedným cieľom|https://i.imgur.com/okePKgu.png
+Informatívne smerové značky|236|Smerová tabuľa s dvoma cieľmi|https://i.imgur.com/tM5mMuw.png
+Informatívne smerové značky|237|Smerová tabuľa s tromi cieľmi|https://i.imgur.com/Wjz5H6K.png
+Informatívne smerové značky|238|Smerová tabuľa s tromi cieľmi|https://i.imgur.com/nlr4orc.png
+Informatívne smerové značky|239|Smerová tabuľa s jedným cieľom, príjazd na rýchlostnú cestu|https://i.imgur.com/poDXxqi.png
+Informatívne smerové značky|240|Smerová tabuľa s jedným cieľom|https://i.imgur.com/HzMQu3C.png
+Informatívne smerové značky|241|Smerová tabuľa pre príjazd k diaľnici|https://i.imgur.com/5bqaX3X.png
+Informatívne smerové značky|242|Smerová tabuľa pre príjazd k diaľnici|https://i.imgur.com/5huPcU7.png
+Informatívne smerové značky|243|Smerová tabuľa pre príjazd k rýchlostnej ceste|https://i.imgur.com/NXvJCmM.png
+Informatívne smerové značky|244|Smerová tabuľa k miestnemu cieľu|https://i.imgur.com/fIE4TXb.png
+Informatívne smerové značky|245|Smerová tabuľa k miestnemu cieľu|https://i.imgur.com/WZFNmRE.png
+Informatívne smerové značky|246|Smerová tabuľa k inému cieľu|https://i.imgur.com/QiMIKy9.png
+Informatívne smerové značky|247|Smerová tabuľa k turistickému cieľu|https://i.imgur.com/cq6nIXM.png
+Informatívne smerové značky|248|Smerová tabuľa k inému cieľu|https://i.imgur.com/76PnFgW.png
+Informatívne smerové značky|249|Smerová tabuľa ku kultúrnemu cieľu|https://i.imgur.com/SNubQeE.png
+Informatívne smerové značky|250|Smerová tabuľa na vyznačenie obchádzky|https://i.imgur.com/JoGwmZA.png
+Informatívne smerové značky|251|Smerová tabuľa na vyznačenie obchádzky|https://i.imgur.com/DNKYeOS.png
+Informatívne smerové značky|252|Trvalá obchádzková trasa|https://i.imgur.com/l0uk0ZT.png
+Informatívne smerové značky|253|Diaľnica|https://i.imgur.com/U4MzfyQ.png
+Informatívne smerové značky|254|Cesta I. triedy|https://i.imgur.com/4Z2FXww.png
+Informatívne smerové značky|255|Cesta I. triedy|https://i.imgur.com/rw6YfxH.png
+Informatívne smerové značky|256|Cesta II. triedy|https://i.imgur.com/GcMLh7H.png
+Informatívne smerové značky|257|Cesta III. triedy|https://i.imgur.com/negGSM5.png
+Informatívne smerové značky|258|Medzinárodná trasa|https://i.imgur.com/kyHChN9.png
+Informatívne smerové značky|259|Medzinárodná trasa|https://i.imgur.com/DofGA3c.png
+Informatívne smerové značky|260|Kilometrovník (cesta I. triedy)|https://i.imgur.com/vrzzYuu.png
+Informatívne smerové značky|261|Kilometrovník (diaľnica, s telefónom|https://i.imgur.com/tAbrbuG.png
+Informatívne smerové značky|262|Kilometrovník (diaľnica)|https://i.imgur.com/GVvlrjk.png
+Informatívne smerové značky|263|Kilometrovník|https://i.imgur.com/WLw8ndD.png
+Informatívne smerové značky|264|Kilometrovník (rýchlostná cesta)|https://i.imgur.com/VRtSmcX.png
+Informatívne smerové značky|265|Hranica samosprávneho kraja|https://i.imgur.com/LI33OkC.png
+Informatívne smerové značky|266|Hranica samosprávneho kraja|https://i.imgur.com/o5D6AaP.png
+Informatívne smerové značky|267|Hranica okresu|https://i.imgur.com/Tbcx4hd.png
+Informatívne smerové značky|268|Iný názov|https://i.imgur.com/z7a1fuT.png
+Informatívne smerové značky|269|Obec|https://i.imgur.com/NXRGPmO.png
+Informatívne smerové značky|270|Koniec obcec|https://i.imgur.com/eJjXn2l.png
+Informatívne smerové značky|271|Miestna časť obce|https://i.imgur.com/nvyyMFa.png
+Informatívne smerové značky|272|Koniec miestnej časti obce|https://i.imgur.com/MfKO55O.png
+Informatívne smerové značky|273|Označenie začiatku obce v jazyku národnostnej menšiny|https://i.imgur.com/UK1FV4d.png
+Informatívne smerové značky|274|Označenie konca obce v jazyku národnostnej menšiny|https://i.imgur.com/dzgHe02.png
+Informatívne smerové značky|275|Hraničný priechod|https://i.imgur.com/V0u2dbe.png
+Informatívne smerové značky|276|Hranica štátu|https://i.imgur.com/lkrNOPd.png
+Informatívne smerové značky|277|Návesť pred obchádzkou|https://i.imgur.com/60Orqb0.png
+Informatívne smerové značky|278|Rýchlostná cesta|https://i.imgur.com/teIs3I2.png
+Informatívne iné značky|279|Telefón núdzového volania|https://i.imgur.com/mgKvzXv.png
+Informatívne iné značky|280|Núdzové volania|https://i.imgur.com/jKKOk1K.png
+Informatívne iné značky|281|Kontrola rýchlosti|https://i.imgur.com/fCRai7c.png
+Informatívne iné značky|282|Telefón|https://i.imgur.com/nVNqWB6.png
+Informatívne iné značky|283|Hasiaci prístroj|https://i.imgur.com/teDrSUg.png
+Informatívne iné značky|284|Prvá pomoc|https://i.imgur.com/AnSqUDF.png
+Informatívne iné značky|285|Nemocnica|https://i.imgur.com/DTx0cL4.png
+Informatívne iné značky|286|Informácie|https://i.imgur.com/79P4u2V.png
+Informatívne iné značky|287|Rádio|https://i.imgur.com/lc8vzgy.png
+Informatívne iné značky|288|Zastávka autobusu|https://i.imgur.com/o7yLMXv.png
+Informatívne iné značky|289|Zastávka trolejbusu|https://i.imgur.com/g8H3qM8.png
+Informatívne iné značky|290|Zastávka električky|https://i.imgur.com/CMf5lF5.png
+Informatívne iné značky|291|Čerpacia stanica|https://i.imgur.com/vjdlnyO.png
+Informatívne iné značky|292|Čerpacia stanica skvapalneného ropného plynu (LPG)|https://i.imgur.com/oyMWIvB.png
+Informatívne iné značky|293|Čerpacia stanica stlačeného prírodného plynu (CNG)|https://i.imgur.com/64XDv5D.png
+Informatívne iné značky|294|Dobíjacia stanica|https://i.imgur.com/h87eGWf.png
+Informatívne iné značky|295|Opraváreň|https://i.imgur.com/GJC8tTV.png
+Informatívne iné značky|296|Hotel alebo motel|https://i.imgur.com/pBej1Xn.png
+Informatívne iné značky|297|Reštaurácia|https://i.imgur.com/JztRFi2.png
+Informatívne iné značky|298|Občerstvenie|https://i.imgur.com/HyM4UFb.png
+Informatívne iné značky|299|WC|https://i.imgur.com/dephFM0.png
+Informatívne iné značky|300|Odpočívadlo|https://i.imgur.com/nBeXujE.png
+Informatívne iné značky|301|Táborisko pre stany|https://i.imgur.com/omhiGrK.png
+Informatívne iné značky|302|Táborisko pre obytné prívesy|https://i.imgur.com/6fmUGO8.png
+Informatívne iné značky|303|Táborisko pre stany a obytné prívesy|https://i.imgur.com/s2wQTPA.png
+Informatívne iné značky|304|Pláž alebo kúpalisko|https://i.imgur.com/xTGslIo.png
+Informatívne iné značky|305|Lyžiarsky vlek|https://i.imgur.com/CgmbaTP.png
+Informatívne iné značky|306|Sedačková lanovka|https://i.imgur.com/uMhFAse.png
+Informatívne iné značky|307|Kabínková lanovka|https://i.imgur.com/2ZRpHPs.png
+Informatívne iné značky|308|Odpočívadlo s komplexnými službami|https://i.imgur.com/UuHSMSp.png
+Informatívne iné značky|309|Odpočívadlo s obmedzenými službami|https://i.imgur.com/K2Ma1fw.png
+Informatívne iné značky|310|Núdzový východ|https://i.imgur.com/ztaE6x7.png
+Informatívne iné značky|311|Úhrada mýta|https://i.imgur.com/lFXsf8h.png
+Informatívne iné značky|312|Koniec úhrady mýta|https://i.imgur.com/9mcxqSz.png
+Informatívne iné značky|313|Úhrada diaľničnou nálepkou|https://i.imgur.com/O6qgmdb.png
+Informatívne iné značky|314|Úniková cesta|https://i.imgur.com/fN2fzq9.png
+Informatívne iné značky|315|Koniec úhrady diaľničnou nálepkou|https://i.imgur.com/UI0mcww.png
+Dodatkové tabuľky|316|Úsek platnosti|https://i.imgur.com/sykzRjU.png
+Dodatkové tabuľky|317|Celková hmotnosť|https://i.imgur.com/fSN5TkR.png
+Dodatkové tabuľky|318|Smerová šípka|https://i.imgur.com/WOxh6RZ.png
+Dodatkové tabuľky|319|Začiatok úseku platnosti|https://i.imgur.com/dAJaSNm.png
+Dodatkové tabuľky|320|Priebeh úseku platnosti|https://i.imgur.com/ccDLoTV.png
+Dodatkové tabuľky|321|Koniec úseku platnosti|https://i.imgur.com/9fexYtl.png
+Dodatkové tabuľky|322|Nepriaznivé poveternostné podmienky|https://i.imgur.com/LcL5YBU.png
+Dodatkové tabuľky|323|Druh vozidla|https://i.imgur.com/benoJG1.png
+Dodatkové tabuľky|324|Tvar kríženia cesty so železničnou dráhou|https://i.imgur.com/t71c0gN.png
+Dodatkové tabuľky|325|Dodatková tabuľka s textom|https://i.imgur.com/NXLhJ1R.png
+Dodatkové tabuľky|326|Dodatková tabuľka s textom, časové ohraničenie|https://i.imgur.com/I7bclRh.png
+Dodatkové tabuľky|327|Dodatková tabuľka s textom, pracovné dni|https://i.imgur.com/jpaa5JN.png
+Dodatkové tabuľky|328|Dodatková tabuľka pre vyhradené parkovanie|https://i.imgur.com/LiqRFxA.png
+Dodatkové tabuľky|329|Kategória tunela|https://i.imgur.com/Pv4RdNf.png
+Dodatkové tabuľky|330|Dodatková tabuľka na označenie vyhradeného parkovacieho miesta pre osobu so zdravotným postihnutím|https://i.imgur.com/xclHL7U.png
+Dodatkové tabuľky|331|Povolený smer jazdy cyklistov|https://i.imgur.com/6s2nFBT.png
+Dodatkové tabuľky|332|Jazda cyklistov v protismere povolená|https://i.imgur.com/bmjlmeK.png
+Dodatkové tabuľky|333|Jazda cyklistov v oboch smeroch povolená|https://i.imgur.com/Cp2IYDf.png
+Dodatkové tabuľky|334|Priečna jazda cyklistov|https://i.imgur.com/WSvosl9.png
+Dodatkové tabuľky|335|Dĺžka úseku alebo platnosti|https://i.imgur.com/HngcHtw.png
+Dodatkové tabuľky|336|Počet|https://i.imgur.com/hv6zg0V.png
+Dodatkové tabuľky|337|Vzdialenosť|https://i.imgur.com/a302Q8o.png
+Dodatkové tabuľky|338|Vzdialenosť|https://i.imgur.com/5ujwERH.png
+Dodatkové tabuľky|339|Úsek platnosti|https://i.imgur.com/N8hShfz.png
+Vodorovné dopravné značky|340|Cyklistická smerová šípka|https://i.imgur.com/yfAZAn4.png
+Vodorovné dopravné značky|341|Cyklistická smerová šípka|https://i.imgur.com/QPYL3Po.png
+Vodorovné dopravné značky|342|Pozdĺžna súvislá čiara|https://i.imgur.com/k2zWVWe.png
+Vodorovné dopravné značky|343|Dvojitá pozdĺžna súvislá čiara|https://i.imgur.com/7W6BHdp.png
+Vodorovné dopravné značky|344|Pozdĺžna prerušovaná čiara|https://i.imgur.com/TlGl57g.png
+Vodorovné dopravné značky|345|Dvojitá pozdĺžna prerušovaná čiara|https://i.imgur.com/VYPIcTL.png
+Vodorovné dopravné značky|346|Pozdĺžna súvislá čiara doplnená prerušovanou čiarou|https://i.imgur.com/CsSEhaa.png
+Vodorovné dopravné značky|347|Vodiaca čiara|https://i.imgur.com/6rMcLZq.png
+Vodorovné dopravné značky|348|Priečna súvislá čiara|https://i.imgur.com/IlpH0MB.png
+Vodorovné dopravné značky|349|Priečna súvislá čiara so symbolom Daj prednosť v jazde!|https://i.imgur.com/OO635nS.png
+Vodorovné dopravné značky|350|Priečna súvislá čiara s nápisom STOP|https://i.imgur.com/eZJZoFQ.png
+Vodorovné dopravné značky|351|Priestor pre cyklistov|https://i.imgur.com/ODvEsvm.png
+Vodorovné dopravné značky|352|Priechod pre chodcov|https://i.imgur.com/AQbKiNJ.png
+Vodorovné dopravné značky|353|Priechod pre chodcov s vodiacim pásom pre nevidiacich|https://i.imgur.com/5oQHMAO.png
+Vodorovné dopravné značky|354|Priechod pre cyklistov|https://i.imgur.com/6HLkA4X.png
+Vodorovné dopravné značky|355|Priechod pre cyklistov primknutý k priechodu pre chodcov|https://i.imgur.com/SOHXzpq.png
+Vodorovné dopravné značky|356|Koridor pre cyklistov|https://i.imgur.com/XUefuAD.png
+Vodorovné dopravné značky|357|Nepriame odbočenie doľava|https://i.imgur.com/jfTyfp9.png
+Vodorovné dopravné značky|358|Smerové šípky|https://i.imgur.com/kPYxh5u.png
+Vodorovné dopravné značky|359|Smerové šípky|https://i.imgur.com/e5Z0QXH.png
+Vodorovné dopravné značky|360|Predbežné šípky|https://i.imgur.com/Uatu1Pl.png
+Vodorovné dopravné značky|361|Predbežné šípky|https://i.imgur.com/eAgF0VR.png
+Vodorovné dopravné značky|362|Predbežné šípky|https://i.imgur.com/272QK01.png
+Vodorovné dopravné značky|363|Parkovacie miesta s kolmým státím|https://i.imgur.com/0sbYLOE.png
+Vodorovné dopravné značky|364|Hmlové body|https://i.imgur.com/15CKuJP.png
+Vodorovné dopravné značky|365|Optická psychologická brzda|https://i.imgur.com/Jq72cGT.png
+Vodorovné dopravné značky|366|Stanovište TAXI|https://i.imgur.com/QrNtkBc.png
+Vodorovné dopravné značky|367|Zastávka autobusu, trolejbusu a električky|https://i.imgur.com/HP0Axrn.png
+Vodorovné dopravné značky|368|Nápisy na vozovke|https://i.imgur.com/X6BDlYl.png
+Vodorovné dopravné značky|369|Bezpečná vzdialenosť|https://i.imgur.com/Hsxqs3U.png
+Vodorovné dopravné značky|370|Parkovacie miesta so šikmým státím|https://i.imgur.com/sf8IlvF.png
+Vodorovné dopravné značky|371|Parkovacie miesta s pozdĺžnym státím|https://i.imgur.com/wjyRG0C.png
+Vodorovné dopravné značky|372|Parkovacie miesta s vyhradeným státím|https://i.imgur.com/BsnzqmW.png
+Vodorovné dopravné značky|373|Parkovacie miesta s vyhradeným státím|https://i.imgur.com/UUTds1D.png
+Vodorovné dopravné značky|374|Parkovacie miesta s vyhradeným státím|https://i.imgur.com/b5Gl6u4.png
+Vodorovné dopravné značky|375|Stanovište TAXI|https://i.imgur.com/BK2IKiS.png
+Vodorovné dopravné značky|376|Varovný pás od zastávky autobusu, trolejbusu a električky|https://i.imgur.com/YUraI0V.png
+Vodorovné dopravné značky|377|Žltá kľukatá čiara|https://i.imgur.com/Id8qqz4.png
+Vodorovné dopravné značky|378|Žltá súvislá čiara|https://i.imgur.com/iqK7HVK.png
+Vodorovné dopravné značky|379|Žltá prerušovaná čiara|https://i.imgur.com/3jELGV8.png
+Vodorovné dopravné značky|380|Šikmé rovnobežné čiary|https://i.imgur.com/03vau1d.png
+Navrhované dopravné značky|381|Rýchlostná cesta|https://i.imgur.com/0BkVps0.png
+Navrhované dopravné značky|382|Cesta pre autobusy|https://i.imgur.com/ElCqyrJ.png
+Navrhované dopravné značky|383|Koniec cesty pre autobusy|https://i.imgur.com/n2CksPI.png
+Navrhované dopravné značky|384|Označenie začiatku obce v jazyku národnostnej menšiny|https://i.imgur.com/JG5CdWi.png
+Navrhované dopravné značky|385|Označenie konca obce v jazyku národnostnej menšiny|https://i.imgur.com/dNHunrV.png
+Navrhované dopravné značky|386|Odbočovací majáčik|https://i.imgur.com/xE5Sx2l.png

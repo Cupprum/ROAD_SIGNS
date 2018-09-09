@@ -3,7 +3,7 @@ from django.template import loader
 from django.views.decorators.http import require_http_methods
 from django.shortcuts import redirect
 
-from app_signs.models import Sign
+from app_signs.models import sign_all
 
 
 @require_http_methods(["GET", "POST"])
@@ -32,6 +32,34 @@ def show_sign(request):
         template = loader.get_template('app_signs/show_sign.html')
         return HttpResponse(template.render({'act_sign': act_sign}, request))
 
+
+@require_http_methods(["GET", "POST"])
+def add_to_db(request):
+    if request.method == 'GET':
+        txt_r = open("txt_db.txt", "r").readlines()
+        for x in txt_r:
+            sign_list = x.split("|")
+
+            s_category = sign_list[0]
+            s_id = sign_list[1]
+            s_name = sign_list[2]
+            s_url = sign_list[3][:-1]
+
+            print(s_category)
+            print(s_id)
+            print(s_name)
+            print(s_url)
+            print("\n")
+
+            new_sign = sign_all(sign_category=sign_list[0],
+                                sign_id=sign_list[1],
+                                sign_name=sign_list[2],
+                                sign_url=sign_list[3][:-1])
+            new_sign.save()
+
+        return HttpResponse('works')
+    elif request.method == 'POST':
+        print('POST METHOD USING')
 
 @require_http_methods(["GET", "POST"])
 def index(request):
