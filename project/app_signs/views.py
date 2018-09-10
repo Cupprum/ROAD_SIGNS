@@ -3,7 +3,7 @@ from django.template import loader
 from django.views.decorators.http import require_http_methods
 from django.shortcuts import redirect
 
-from app_signs.models import sign_all
+from app_signs.models import sign
 
 
 @require_http_methods(["GET", "POST"])
@@ -27,7 +27,7 @@ def choose_category(request):
 @require_http_methods(["GET", "POST"])
 def show_sign(request):
     if request.method == 'GET':
-        act_sign = Sign.objects.get(sign_id='001')
+        act_sign = sign.objects.get(sign_id='001')
         print(act_sign.sign_name)
         template = loader.get_template('app_signs/show_sign.html')
         return HttpResponse(template.render({'act_sign': act_sign}, request))
@@ -40,26 +40,21 @@ def add_to_db(request):
         for x in txt_r:
             sign_list = x.split("|")
 
-            s_category = sign_list[0]
-            s_id = sign_list[1]
-            s_name = sign_list[2]
-            s_url = sign_list[3][:-1]
+            new_sign = sign.objects.create(sign_category=sign_list[0],
+                                           sign_id=sign_list[1],
+                                           sign_name=sign_list[2],
+                                           sign_url=sign_list[3][:-1])
 
-            print(s_category)
-            print(s_id)
-            print(s_name)
-            print(s_url)
-            print("\n")
+            print(new_sign.sign_category)
+            print(new_sign.sign_id)
+            print(new_sign.sign_name)
+            print(new_sign.sign_url)
 
-            new_sign = sign_all(sign_category=sign_list[0],
-                                sign_id=sign_list[1],
-                                sign_name=sign_list[2],
-                                sign_url=sign_list[3][:-1])
-            new_sign.save()
-
+            # new_sign.save()
         return HttpResponse('works')
     elif request.method == 'POST':
         print('POST METHOD USING')
+
 
 @require_http_methods(["GET", "POST"])
 def index(request):
