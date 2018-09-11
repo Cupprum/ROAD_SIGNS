@@ -5,6 +5,8 @@ from django.shortcuts import redirect
 
 from app_signs.models import sign
 
+import random
+
 
 @require_http_methods(["GET", "POST"])
 def welcome_page(request):
@@ -34,46 +36,22 @@ def show_sign(request):
 
 
 @require_http_methods(["GET", "POST"])
-def add_to_db(request):
+def question(request):
     if request.method == 'GET':
-        txt_r = open("txt_db.txt", "r").readlines()
-        for x in txt_r:
-            sign_list = x.split("|")
+        right_sign = sign.objects.get(sign_id='001')
+        fake_sign1 = sign.objects.get(sign_id='002')
+        fake_sign2 = sign.objects.get(sign_id='003')
+        fake_sign3 = sign.objects.get(sign_id='004')
 
-            new_sign = sign.objects.create(sign_category=sign_list[0],
-                                           sign_id=sign_list[1],
-                                           sign_name=sign_list[2],
-                                           sign_url=sign_list[3][:-1])
+        list_of_names = [right_sign.sign_name,
+                         fake_sign1.sign_name,
+                         fake_sign2.sign_name,
+                         fake_sign3.sign_name]
 
-            print(new_sign.sign_category)
-            print(new_sign.sign_id)
-            print(new_sign.sign_name)
-            print(new_sign.sign_url)
+        print(list_of_names)
+        random.shuffle(list_of_names, random.random)
+        print(list_of_names)
 
-            # new_sign.save()
-        return HttpResponse('works')
-    elif request.method == 'POST':
-        print('POST METHOD USING')
-
-
-@require_http_methods(["GET", "POST"])
-def index(request):
-    if request.method == 'GET':
-        template = loader.get_template('app_signs/index.html')
-        context = {'name': 'milujem simonku', 'orientation': 'simonkofil'}
-        return HttpResponse(template.render(context, request))
-
-    elif request.method == 'POST':
-        if 'test1' in request.POST:
-            return HttpResponse('THIS IS HOW IT WORKS')
-
-        elif 'redirect' in request.POST:
-            return redirect('index2')
-
-        else:
-            return HttpResponse('SOMETHING WENT WRONG')
-
-
-@require_http_methods(["GET", "POST"])
-def index2(request):
-    return HttpResponse('skuska 123')
+        template = loader.get_template('app_signs/question.html')
+        return HttpResponse(template.render({'right_sign': right_sign,
+                                            'list': list_of_names}, request))

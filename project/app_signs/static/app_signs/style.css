@@ -22,7 +22,7 @@ div.middle-rectangle-dark {
 }
 
 div.middle {
-    background-color: #EBFAF3; 
+    background-color: #EBFAF3;
     height: 38%;
 }
 
@@ -38,4 +38,16 @@ button.btn-my-css {
     border-width: thick;
     border-color: #D0EAE5;
     color: black;
+}
+
+html, body, #wrapper {
+   height:100%;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   border: 0;
+}
+#wrapper td {
+   vertical-align: middle;
+   text-align: center;
 }
