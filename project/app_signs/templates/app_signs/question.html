@@ -6,18 +6,18 @@
     <link rel="stylesheet" type="text/css" href="{% static 'app_signs/style.css' %}">
 </head>
 <body>
-    <form action="/question" method = "post">{% csrf_token %}
-        <img src={{ right_sign.sign_url }} height="50%" class="rounded mx-auto d-block">
-
-            {% for x in list %}
-              <div style="text-align: center">
-                <button type="submit" name="btn_start"
-                  class="btn btn-lg btn-dark"
-                  style="font-size: 20px; margin-top: 15px">{{ x }}
-                </button>
-              </div>
-            {% endfor %}
-          </ul>
-        </div>
-    </form>
+  <form action="/question" method = "post">{% csrf_token %}
+    <br><br>
+    <img src={{ right_sign.sign_url }} height="40%" class="rounded mx-auto d-block">
+    <br>
+    <p class="text-center" style="font-size: 25px">Co je to za znacku?</p>
+    {% for x in list %}
+      <div class="w-100" style="text-align: center">
+        <button type="submit" name="btn_start"
+                class="btn btn-lg btn-dark"
+                style="font-size: 20px; margin-top: 15px; width:25%">{{ x }}
+        </button>
+      </div>
+    {% endfor %}
+  </form>
 </body>
