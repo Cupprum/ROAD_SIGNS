@@ -43,15 +43,13 @@ def question(request):
         fake_sign2 = sign.objects.get(sign_id='003')
         fake_sign3 = sign.objects.get(sign_id='004')
 
-        list_of_names = [right_sign.sign_name,
-                         fake_sign1.sign_name,
-                         fake_sign2.sign_name,
-                         fake_sign3.sign_name]
+        list_sign = [right_sign.sign_name,
+                     fake_sign1.sign_name,
+                     fake_sign2.sign_name,
+                     fake_sign3.sign_name]
 
-        print(list_of_names)
-        random.shuffle(list_of_names, random.random)
-        print(list_of_names)
+        random.shuffle(list_sign, random.random)
 
         template = loader.get_template('app_signs/question.html')
         return HttpResponse(template.render({'right_sign': right_sign,
-                                            'list': list_of_names}, request))
+                                            'list': list_sign}, request))

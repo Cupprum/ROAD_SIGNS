@@ -7,10 +7,17 @@
 </head>
 <body>
     <form action="/question" method = "post">{% csrf_token %}
-        <table id="wrapper">
-            <tr>
-                <td><img src={{ right_sign.sign_url }}></td>
-            </tr>
-        </table>
+        <img src={{ right_sign.sign_url }} height="50%" class="rounded mx-auto d-block">
+
+            {% for x in list %}
+              <div style="text-align: center">
+                <button type="submit" name="btn_start"
+                  class="btn btn-lg btn-dark"
+                  style="font-size: 20px; margin-top: 15px">{{ x }}
+                </button>
+              </div>
+            {% endfor %}
+          </ul>
+        </div>
     </form>
 </body>
