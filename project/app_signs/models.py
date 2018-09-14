@@ -9,3 +9,7 @@ class sign(models.Model):
 
     def __str__(self):
             return self.sign_name
+
+
+class user(models.Model):
+    id = "NIECO"

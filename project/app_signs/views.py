@@ -58,3 +58,10 @@ def question(request):
         template = loader.get_template('app_signs/question.html')
         return HttpResponse(template.render({'right_sign': right_sign,
                                             'list': list_sign}, request))
+
+
+@require_http_methods(["GET", "POST"])
+def register(request):
+    if request.method == 'GET':
+        template = loader.get_template('app_signs/register.html')
+        return HttpResponse(template.render({}, request))
