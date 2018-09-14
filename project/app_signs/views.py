@@ -38,10 +38,15 @@ def show_sign(request):
 @require_http_methods(["GET", "POST"])
 def question(request):
     if request.method == 'GET':
-        right_sign = sign.objects.get(sign_id='001')
-        fake_sign1 = sign.objects.get(sign_id='002')
-        fake_sign2 = sign.objects.get(sign_id='003')
-        fake_sign3 = sign.objects.get(sign_id='004')
+        rndint1 = '{:03}'.format(random.randint(1, 386))
+        rndint2 = '{:03}'.format(random.randint(1, 386))
+        rndint3 = '{:03}'.format(random.randint(1, 386))
+        rndint4 = '{:03}'.format(random.randint(1, 386))
+
+        right_sign = sign.objects.get(sign_id=rndint1)
+        fake_sign1 = sign.objects.get(sign_id=rndint2)
+        fake_sign2 = sign.objects.get(sign_id=rndint3)
+        fake_sign3 = sign.objects.get(sign_id=rndint4)
 
         list_sign = [right_sign.sign_name,
                      fake_sign1.sign_name,
