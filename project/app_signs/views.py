@@ -57,7 +57,7 @@ def question(request):
 
         template = loader.get_template('app_signs/question.html')
         return HttpResponse(template.render({'right_sign': right_sign,
-                                            'list': list_sign}, request))
+                                             'list': list_sign}, request))
 
 
 @require_http_methods(["GET", "POST"])

@@ -2,39 +2,21 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
     {% load static %}
-
     <link rel="stylesheet" type="text/css" href="{% static 'app_signs/style.css' %}">
 </head>
-<body class="bg-danger">
+<body class="question">
   <form action="/question" method = "post">{% csrf_token %}
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-    <br>
-    <div class="container align-mid">
-      <img src={{ right_sign.sign_url }} width="33%" class="rounded mx-auto d-block" style="border: 4px solid black;">
+    <div class="container">
+      <img src="https://i.imgur.com/tqvGkzF.png" class="main_sign" alt="FOTKA">
       <br>
-      <p class="text-center" style="font-size: 25px">Co je to za znacku?</p>
-      {% for x in list %}
-        <div class="w-100 text-center">
+      <h3>Aka je to znacka?</h3>
+      <div class="btn-group-vertical" role="group">
+        {% for sign in list%}
           <button type="submit" name="btn_start"
-                  class="btn btn-lg btn-dark"
-                  style="font-size: 20px; margin-top: 10px; width:500px">{{ x }}
+                  class="btn btn-lg quest_options">{{ sign }}
           </button>
-        </div>
-      {% endfor %}
+        {% endfor %}
+      </div>
     </div>
   </form>
 </body>

@@ -1,45 +1,37 @@
-h1.main_text {
-    font-family: "Times New Roman", Times, serif;
-    font-size: 60px;
-    color: #34575C;
-    font-weight: bold;
+img.main_sign {
+    border: 4px solid #333;
+    border-radius: 10px;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-div.top {
-    background-image: url("welcome_background.png");
-    height: 60%;
-}
-
-div.middle-rectangle-light {
-    height: 2%;
-    background-color: #22947a00;
-}
-
-div.middle-rectangle-dark {
-    height: 2.5%;
-    background-color: #DAF5F1;
-    width: 100%;
-}
-
-div.middle {
-    background-color: #EBFAF3;
-    height: 38%;
-}
-
-div.bottom {
-    height: 2%;
-    position: absolute;
-    bottom: 0;
-    background-color: #DAF5F1;
-    width: 100%;
+body.question {
+    background-image: url("question_bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    background-color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana,
+    sans-serif;
+    color: #f4f4f4;
 }
 
 div.container {
-    max-width:500px;
+    margin-top: 5.5%;
+    text-align: center;
+    vertical-align: center;
 }
 
-button.btn-my-css {
-    border-width: thick;
-    border-color: #D0EAE5;
-    color: black;
+button.quest_options {
+    min-width: 400px;
+    font-size: 20px;
+    margin-top: 10px;
+    height: 50px;
+    border: 0.5px dashed #333;
+    border-radius: 5px;
+    color: #333;
+    background-color: #f4f4f4;
 }
