@@ -7,7 +7,7 @@
 <body class="question">
   <form action="/question" method = "post">{% csrf_token %}
     <div class="container">
-      <img src="https://i.imgur.com/tqvGkzF.png" class="main_sign" alt="FOTKA">
+      <img src="{{ right_sign.sign_url }}" class="main_sign" alt="FOTKA">
       <br>
       <h3>Aka je to znacka?</h3>
       <div class="btn-group-vertical" role="group">
