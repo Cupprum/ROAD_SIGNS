@@ -1,7 +1,8 @@
 img.main_sign {
     border: 4px solid #333;
     border-radius: 10px;
-    height: 350px;
+    max-height: 350px;
+    max-width: 350px;
     display: block;
     margin-left: auto;
     margin-right: auto;
